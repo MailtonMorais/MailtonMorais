@@ -7,7 +7,7 @@ Sou um adepto das melhores práticas de desenvolvimento, como Clean Code, TDD (T
 
 ----
 
-<a href="https://https://www.linkedin.com/in/mailton-morais-aba917146/" target="_blank" alt="Linkedin">
+<a href="https://www.linkedin.com/in/mailton-morais-aba917146/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF"/>
 </a>
 
